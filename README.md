@@ -1,3 +1,8 @@
+___
+
+:warning:**This repository has been archived and is no longer maintained**:warning:
+___
+
 # Swisscom SMS-API-Client
 [![Build Status](https://travis-ci.org/rufer7/swisscom-sms-api-client.svg)](https://travis-ci.org/rufer7/swisscom-sms-api-client)
 [![Coverage Status](https://coveralls.io/repos/rufer7/swisscom-sms-api-client/badge.svg?branch=master)](https://coveralls.io/r/rufer7/swisscom-sms-api-client?branch=master)
